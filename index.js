@@ -36,4 +36,4 @@ let UC3 = add('//;\n1;2');
 console.log('Total: ', UC3)
 // Use Case 4 //
 let UC4 = add('1111-81111-9');
-console.log('Total: ', UC3)
+console.log('Total: ', UC4)
